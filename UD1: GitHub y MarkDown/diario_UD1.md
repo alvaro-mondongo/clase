@@ -1,5 +1,5 @@
 ## **Qué he aprendido**
-En esta unidad he aprendido a usar Markdown, y más concretamente, he reforzado los usos más habituales. Ya que ví en el __chuletario__ que también se pueden crear bloques de código, algo que no hicimos en los ejercicios. Además, aprendimos a usar Github, e hicimos un poco de investigación sobre cómo hacerlo, la empresa que lo creó, etc. Yendo en más detalle, uso básico de la interfaz, y sus funcionalidades. Así como el uso de Git, que es un sistema de gestión de versiones independiente de Github. De este es importante saber los comandos básicos para inicializar un repositorio, y gestionar los cambios que se registran y mandan.
+En esta unidad he aprendido a usar Markdown, y más concretamente, he reforzado los usos más habituales. Ya que ví en el _chuletario_ que también se pueden crear bloques de código, algo que no hicimos en los ejercicios. Además, aprendimos a usar Github, e hicimos un poco de investigación sobre cómo hacerlo, la empresa que lo creó, etc. Yendo en más detalle, uso básico de la interfaz, y sus funcionalidades. Así como el uso de Git, que es un sistema de gestión de versiones independiente de Github. De este es importante saber los comandos básicos para inicializar un repositorio, y gestionar los cambios que se registran y mandan.
 
 ## **Qué no entiendo**
 En principio lo he entendido todo.
