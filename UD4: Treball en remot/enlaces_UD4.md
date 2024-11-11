@@ -1,1 +1,1 @@
-
+[Practica SSH](https://github.com/alvaro-mondongo/clase/blob/main/UD4%3A%20Treball%20en%20remot/practica.md): Archivo Markdown subido a GitHub. Contiene fotos y texto explicando como preparar y ejecutar una serie de acciones por SSH antre un cliente y un servidor.
