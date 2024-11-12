@@ -25,17 +25,28 @@ Características generales:
 
    
 #### Colaborar con otras personas
-Este acceso en línea se puede extender a más personas, permitiendo así el trabajo en grupo. Una característica muy relevante para proyectos de código abierto, y para empresas. Las colaboraciones dependen
-depende
-
-* desarrollo en paralelo
+Este acceso en línea se puede extender a más personas, permitiendo así el trabajo en grupo. Una característica muy relevante para proyectos de código abierto y para empresas, que no está disponible simplemente por medio de Git.
+El trabajo en grupo viene con ventajas como:
+* Desarrollo en paralelo, de distintas partes del proyecto
+* Asignación de roles con permisos personalizados
+* Incremento exponencial de la productividad
+* Contribuciones de personas ajenas al proyecto
 
 ## Comandos relevantes
-
+1. git init - el comando necesario para inicializar un repositorio en nuestro ordenador
+2. git add archivo - comando para añadir archivos a la cola de cambios
+   git add . - añade todos los archivos que hayan sido modificados desde el ultimo git add
+3. git commit - coje todos los cambios en la cola de espera y crea un grupo de cambios, con una fecha asignada
+4. git push - une/finaliza los cambios del commit al proyecto
+5. git status - devuelve información sobre los cambios que se han hecho en el directorio en el que estemos
+6. git config - permite configurar el repositorio
+7. git clone dirección - clona un repositorio desde una url (dirección)
 
 ## Resumen
-
+Github es una herramienta muy útil para el trabajo en equipo de los programadores. Permite tener un repositorio en línea donde registrar cambios y peticiones, así como organizar a los miembros de un equipo por medio de roles, e incluso aceptar colaboraciones independientes de miembros externos al equipo.
 
 
 ## Bibliografía
 - https://www.simplilearn.com/tutorials/git-tutorial/what-is-git
+- https://www.datacamp.com/blog/what-is-github
+- https://github.blog/developer-skills/github/top-12-git-commands-every-developer-must-know/
